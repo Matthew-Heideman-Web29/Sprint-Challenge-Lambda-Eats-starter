@@ -4,7 +4,8 @@ function PizzaForm(){
     return (
         <>
             <form>
-                
+                Choose A Size:
+                <input type='' name= 'size' />
             </form>
         </>
     )
